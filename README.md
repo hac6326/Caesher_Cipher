@@ -29,5 +29,7 @@ Python: The program requires Python to be installed on the system.
 # How To Install:
 
 git clone https://github.com/hac6326/Prasunet_Code_TaskNo.1.git
+
 cd Prasunet_Code_TaskNo.1
+
 python3 caesar_cipher.py
