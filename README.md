@@ -23,3 +23,7 @@ System Requirements:
 
 Operating System: The program can run on Windows, macOS, and Linux operating systems.
 Python: The program requires Python to be installed on the system.
+
+
+HOW TO INSTALL
+git clone 
